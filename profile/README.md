@@ -1,7 +1,5 @@
 [![Clyra · Ingeniería de producto](./portada.png)](https://clyra.dev/)
 
-Somos un estudio de ingeniería de producto en México. Diseñamos y construimos aplicaciones web y móviles, sistemas conectados y herramientas de inteligencia artificial.
-
 **[Explora el portafolio ↗](https://clyra.dev/portfolio)**　·　[Habla con el estudio](https://clyra.dev/#contact)
 
 ## Proyectos seleccionados
