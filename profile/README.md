@@ -1,17 +1,36 @@
 [![Clyra · Ingeniería de producto](./portada.png)](https://clyra.dev/)
 
-Somos un estudio de ingeniería de producto en México. Diseñamos y construimos aplicaciones web y móviles, sistemas conectados y herramientas de inteligencia artificial.
-
-**[Explora el portafolio ↗](https://clyra.dev/portfolio)**　·　[Habla con el estudio](https://clyra.dev/#contact)
+**[Explora el portafolio](https://clyra.dev/portfolio)**　·　[Habla con el estudio](https://clyra.dev/#contact)
 
 ## Proyectos seleccionados
 
-<p align="center">
-  <a href="https://clyra.dev/portfolio/agentos"><img width="250" src="./proyectos/seleccion/agentos.png" alt="AgentOS · Agentes de IA. Ver el proyecto."></a>
-  <a href="https://clyra.dev/portfolio/omnicube"><img width="250" src="./proyectos/seleccion/omnicube.png" alt="OmniCube · Telemetría de flotas. Ver el proyecto."></a>
-  <a href="https://clyra.dev/portfolio/rook"><img width="250" src="./proyectos/seleccion/rook.png" alt="Rook · Presentaciones conversacionales. Ver el proyecto."></a>
+<p>
+  <a href="https://clyra.dev/portfolio/agentos">
+    <picture>
+      <source media="(max-width: 650px)" srcset="./proyectos/galeria/agentos/movil.webp">
+      <img width="100%" src="./proyectos/galeria/agentos/escritorio.webp" alt="AgentOS · Crea agentes de IA a partir de una idea. Ver proyecto.">
+    </picture>
+  </a>
+</p>
+<p>
+  <a href="https://clyra.dev/portfolio/omnicube">
+    <picture>
+      <source media="(max-width: 650px)" srcset="./proyectos/galeria/omnicube/movil.webp">
+      <img width="100%" src="./proyectos/galeria/omnicube/escritorio.webp" alt="OmniCube · Explora la ubicación y el estado de una flota en el mapa. Ver proyecto.">
+    </picture>
+  </a>
+</p>
+<p>
+  <a href="https://clyra.dev/portfolio/rook">
+    <picture>
+      <source media="(max-width: 650px)" srcset="./proyectos/galeria/rook/movil.webp">
+      <img width="100%" src="./proyectos/galeria/rook/escritorio.webp" alt="Rook · Crea y comparte presentaciones conversacionales. Ver proyecto.">
+    </picture>
+  </a>
 </p>
 
-## Código abierto
+## Repositorios
 
-[**Remi**](https://github.com/clyra-dev/remi) conecta un servidor Debian con tu Mac para avisarte cuando alguien inicia sesión por SSH. Está escrito en Rust y se publica con licencia MIT.
+**83 repositorios privados** · Noviembre de 2026
+
+[**Remi**](https://github.com/clyra-dev/remi) es nuestro proyecto de código abierto en Rust. Te avisa en tu Mac cuando alguien inicia sesión por SSH en un servidor Debian. Licencia MIT.
