@@ -29,8 +29,22 @@
   </a>
 </p>
 
-## Repositorios
+## Tecnologías del estudio
 
-**83 repositorios privados** · Noviembre de 2026
+<p>
+  <img src="./tecnologias/typescript.svg" width="105" height="30" alt="TypeScript">
+  <img src="./tecnologias/python.svg" width="85" height="30" alt="Python">
+  <img src="./tecnologias/rust.svg" width="67" height="30" alt="Rust">
+  <img src="./tecnologias/swift.svg" width="73" height="30" alt="Swift">
+  <img src="./tecnologias/kotlin.svg" width="77" height="30" alt="Kotlin">
+</p>
+
+[Agentes de IA](https://github.com/clyra-dev/agentos)　·　[Telemetría de flotas](https://github.com/clyra-dev/omnicube)　·　[Interfaces de voz](https://github.com/clyra-dev/rook)
+
+## Equipo y repositorios
+
+[Equipo de Clyra](https://github.com/orgs/clyra-dev/people) · 4 integrantes en GitHub
+
+[5 repositorios públicos](https://github.com/orgs/clyra-dev/repositories) · 83 repositorios privados
 
 [**Remi**](https://github.com/clyra-dev/remi) es nuestro proyecto de código abierto en Rust. Te avisa en tu Mac cuando alguien inicia sesión por SSH en un servidor Debian. Licencia MIT.
